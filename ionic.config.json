@@ -1,0 +1,8 @@
+{
+  "name": "ai-advice-assistant",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "9bfd16f8"
+}
